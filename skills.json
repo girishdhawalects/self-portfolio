@@ -1,0 +1,51 @@
+[
+    {
+        "name": "GCP",
+        "icon": "https://img.icons8.com/?size=80&id=fpGM2cINbbu4&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=80&id=hGdCwhSHUe6L&format=png&color=000000"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/?size=80&id=KlkfbDEjskb5&format=png&color=000000"
+    },
+    {
+        "name": "Airflow",
+        "icon": "https://img.icons8.com/?size=80&id=12Xk5enJGiNJ&format=png&color=000000"
+    },
+    {
+        "name": "BigQuery",
+        "icon": "https://img.icons8.com/?size=80&id=12773&format=png&color=000000"
+    },
+    {
+        "name": "Dataflow",
+        "icon": "https://img.icons8.com/?size=80&id=48199&format=png&color=000000"
+    },
+    {
+        "name": "Pub/Sub",
+        "icon": "https://img.icons8.com/?size=80&id=hCvhdugyicF1&format=png&color=000000g"
+    },
+
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=80&id=wU62u24brJ44&format=png&color=000000"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/?size=80&id=9Kvi1p1F0tUo&format=png&color=000000"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/?size=80&id=Ny0t2MYrJ70p&format=png&color=000000"
+    },
+    {
+        "name": "Data Warehousing",
+        "icon": "https://img.icons8.com/?size=80&id=Wy3XKG1CjyKf&format=png&color=000000"
+    },
+    {
+        "name": "Data Modelling",
+        "icon": "https://img.icons8.com/?size=80&id=64072&format=png&color=000000"
+    }
+]
